@@ -24,6 +24,7 @@
     int a1;
     int m2;
     int m3;
+    int b1c2BeforeMerge;
 }
 
 
